@@ -1,4 +1,4 @@
-package arrays.task_1.two_pointer_solution;
+package arrays.task_1_Two_sum_sorted.two_pointer_solution;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package arrays.task_1.binary_search_solution;
+package arrays.task_1_Two_sum_sorted.binary_search_solution;
 
 import org.junit.jupiter.api.Test;
 
